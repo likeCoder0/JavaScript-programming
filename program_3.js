@@ -2,9 +2,9 @@ console.log('var, let and const')
 var a=65
 {
     var a="how are you?"
-    console.log(a)
+    console.log(age)
 }
-console.log(a)
+console.log(age)
 
 let b=20
 let c=null

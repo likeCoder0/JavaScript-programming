@@ -1,7 +1,7 @@
-let a=67;
-console.log(a)
-a="Anchal"
-console.log(a)
+let age=67;
+console.log(age)
+age="Anchal"
+console.log(age)
 var b="let check"
 console.log(b)
 b=74

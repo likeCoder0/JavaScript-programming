@@ -1,9 +1,9 @@
 //q1
 let a="anchal"
 let b=20
-console.log(a+b)
+console.log(age+b)
 //q2
-console.log(typeof (a+b))
+console.log(typeof (age+b))
 
 //q3
 const dict={

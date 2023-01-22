@@ -6,7 +6,7 @@ let d=BigInt("583")+BigInt("5");
 let e="Anchal"
 let f=Symbol("i am fine")
 let g
-console.log(a, b, c, d, e, f, g)
+console.log(age, b, c, d, e, f, g)
 console.log(typeof d)
 
 //object in js
