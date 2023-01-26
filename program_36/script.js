@@ -14,3 +14,6 @@ document.querySelector(".this").style.background="red";
 console.log(document.getElementsByTagName("a"))
 console.log(document.querySelector(".card").getElementsByTagName("a"))
 console.log(document.getElementsByName("Search"))
+Array.from(document.getElementsByTagName("li")).forEach((element){
+    element.style.backgroundColor="cyan";
+})
