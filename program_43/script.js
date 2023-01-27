@@ -1,0 +1,14 @@
+let x=document.getElementsByTagName("div")[0];
+// x.innerHTML=x.innerHTML+"Hello Anchal!";
+let div=document.createElement("div");
+div.innerHTML="<b>Hello Anchal!</b>";
+// x.appendChild(div);
+// x.prepend(div);
+// x.before(div);
+// x.after(div);
+// x.replaceWith(div);
+first.insertAdjacentHTML("beforebegin",`<div class="test">beforebegin</div>`);
+first.insertAdjacentHTML("beforeend",`<div class="test">beforeend</div>`);
+first.insertAdjacentHTML("afterbegin",`<div class="test">afterbegin</div>`);
+first.insertAdjacentHTML("afterend",`<div class="test">afterend</div>`);
+first.remove();

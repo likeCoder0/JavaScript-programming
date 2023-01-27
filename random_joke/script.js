@@ -307,6 +307,7 @@ Because he was always spotted.`];
 const find_new=()=>{
     return Math.floor(Math.random()*101);
 }
+
 let any=find_new();
 console.log(jokes[any]);
 document.write(jokes[any]);
